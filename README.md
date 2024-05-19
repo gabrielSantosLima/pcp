@@ -8,6 +8,6 @@
 
 > 🟢 Finalizado | 🟡 Planejado
 
-| Título da questão                   | Status | Plataforma | Link                                         |
-| ----------------------------------- | ------ | ---------- | -------------------------------------------- |
-| 1024 - Problema Fácil de Rujia Liu? | 🟢     | beecrowd   | ![Clique aqui](./problems/c/beecrowd/1424.c) |
+| Título da questão                   | Status | Plataforma | Link                                        |
+| ----------------------------------- | ------ | ---------- | ------------------------------------------- |
+| 1024 - Problema Fácil de Rujia Liu? | 🟢     | beecrowd   | [Clique aqui](./problems/c/beecrowd/1424.c) |
