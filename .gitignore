@@ -2,3 +2,7 @@ node_modules
 __pycache__
 *.out
 *.o
+in
+in2
+in3
+in4

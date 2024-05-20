@@ -11,3 +11,4 @@
 | Título da questão                                                                       | Status | Plataforma | Link                                        |
 | --------------------------------------------------------------------------------------- | ------ | ---------- | ------------------------------------------- |
 | [1424 - Problema Fácil de Rujia Liu?](https://judge.beecrowd.com/pt/problems/view/1424) | 🟢     | beecrowd   | [Clique aqui](./problems/c/beecrowd/1424.c) |
+| [1861 - O Hall dos Assassinos](https://judge.beecrowd.com/pt/problems/view/1861)        | 🟢     | beecrowd   | [Clique aqui](./problems/c/beecrowd/1861.c) |
