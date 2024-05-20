@@ -1,6 +1,6 @@
-![https://github.com/gabrielSantosLima/pcp-2024](./repo/logo.png)
+![https://github.com/gabrielSantosLima/pcp](./repo/logo.png)
 
-# Programação Competitiva UEA 2024
+# Programação Competitiva UEA
 
 > Repositório que reúne resolução de problemas das plataformas [beecrowd](https://judge.beecrowd.com/), [CSES](https://cses.fi/) e [NEPS Academy](https://neps.academy/br/login).
 
